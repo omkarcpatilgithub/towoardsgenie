@@ -1,0 +1,692 @@
+## intent: menu
+ - show me menu
+ - menu
+ - go back to menu
+ - what all you have got
+ - tell me about your sevieces
+
+
+## intent: number
+ - 1
+ - 2
+ - 3
+
+## intent:find_in_mongo
+ - do i exist?
+ - my details
+ 
+## intent:deregister
+- Deregister
+- Deregister my number from this
+- Deregister my account
+- Deregister my number
+- Deregister me from this
+- deregister my no.
+- deregister my number
+- I want to deregister
+- Please help me to deregister
+- I want to delete my account
+- Delete my account
+- Help me to delete my account
+- Please help me to delete my account
+- Delete account
+- Deregister from this
+- I want to deregister from this
+- cancel my account
+- remove my account
+- I dont want to use this anymore
+- I don't want to be here
+- Please close my account
+
+## intent:updation
+ - name
+ - email
+ - both
+ - 1st 
+ - 2nd 
+ - 3rd
+ - 1st one
+ - 2nd one
+ - 3rd one
+
+## intent:inform
+ - [sitka](location)
+ - [juneau](location)
+ 
+ 
+## intent:email
+ - [anurag@gmail.com](email)
+ - [suraj@gmail.com](email)
+ - [simran@gmail.com](email)
+ - [kajal@gmail.com](email)
+ - [ocpatil@gmail.com](email)
+
+## intent:search_provider
+ - i need a [hospital](facility_type)
+ - find me nearby [hospital](facility_type)
+ - please find me nearby [restaurant](facility_type)
+ - i need some [restaurant](facility_type)
+ 
+## intent:thanks
+ - thank you
+ - thanks
+ - thank you very much
+
+## intent:greet
+- hey
+- hello
+- hi
+- good morning
+- good evening
+- hey there
+- thanks
+
+## intent:goodbye
+- bye
+- goodbye 
+- see you around
+- see you later
+
+## intent:affirm
+- yes
+- indeed
+- of course
+- that sounds good
+- correct
+
+## intent:deny
+- no
+- never
+- I don't think so
+- don't like that
+- no way
+- not really
+
+## intent:mood_great
+- perfect
+- very good
+- great
+- amazing
+- wonderful
+- I am feeling very good
+- I am great
+- I'm good
+
+## intent:mood_unhappy
+- sad
+- very sad
+- unhappy
+- bad
+- very bad
+- awful
+- terrible
+- not very good
+- extremely sad
+- so sad
+
+## intent:bot_challenge
+- are you a bot?
+- are you a human?
+- am I talking to a bot?
+- am I talking to a human?
+
+## intent:name
+ - [anurag](name)
+ - [suraj](name)
+ - [simran](name)
+ - [kajal](name)
+ - [omkar](name)
+ - [omkar patil](name)
+ - [omkar c patil](name)
+ - [anurag joshi](name)
+ - my name is [roshan kumar](name)
+ - i am know as [bhuralal](name)
+ - you can call me [inderjeet kumar](name)
+ - i am [munna ram](name)
+ - hi my name is [shardha nand](name)
+ - hey, [naeem khan](name) here
+ - [sunder singh](name) is my name
+ - my name is [surjit](name)
+ - i am know as [yogender jha](name)
+ - you can call me [manoj kumar](name)
+ - i am [vikash](name)
+ - hi my name is [babu lal](name)
+ - hey, [nitin](name) here
+ - [raj kumar](name) is my name
+ - my name is [sanavvar](name)
+ - i am know as [manoj](name)
+ - you can call me [sispal](name)
+ - i am [chtarpal singh](name)
+ - hi my name is [amrik singh](name)
+ - hey, [rajveer sing](name) here
+ - [vijay singh](name) is my name
+ - my name is [ram kuamr](name)
+ - i am know as [kaloo giri](name)
+ - you can call me [ashok kumar](name)
+ - i am [vijay](name)
+ - hi my name is [rohit](name)
+ - hey, [ved parkash shani](name) here
+ - [santosh kumar](name) is my name
+ - my name is [prakash](name)
+ - i am know as [gourav](name)
+ - you can call me [mohd abusala](name)
+ - i am [om parkash](name)
+ - hi my name is [babu lal](name)
+ - hey, [sonu](name) here
+ - [amit](name) is my name
+ - my name is [punit yadav](name)
+ - i am know as [jamal khan jimmi](name)
+ - you can call me [rajesh](name)
+ - i am [shyam narain pande](name)
+ - hi my name is [mohd kausar](name)
+ - hey, [gurvinder singh](name) here
+ - [sagir](name) is my name
+ - my name is [vivek](name)
+ - i am know as [parkash](name)
+ - you can call me [raju](name)
+ - i am [nitin](name)
+ - hi my name is [rumeet kumar](name)
+ - hey, [punnet](name) here
+ - [chottu](name) is my name
+ - my name is [ramesh](name)
+ - i am know as [ashok kumar](name)
+ - you can call me [kalyan datt sharma](name)
+ - i am [harpal](name)
+ - hi my name is [kamal singh](name)
+ - hey, [shivam kosik](name) here
+ - [altaf](name) is my name
+ - my name is [mohd asraf ansari](name)
+ - i am know as [babupuri](name)
+ - you can call me [ashu](name)
+ - i am [horam](name)
+ - hi my name is [shaulal](name)
+ - hey, [khushi ram](name) here
+ - [ravi lohni](name) is my name
+ - my name is [karishan](name)
+ - i am know as [pintu kumar](name)
+ - you can call me [sudhir kumar](name)
+ - i am [satpal](name)
+ - hi my name is [vansh](name)
+ - hey, [chetan](name) here
+ - [avinash chand](name) is my name
+ - my name is [sagar bist](name)
+ - i am know as [mohd saddam](name)
+ - you can call me [mohan sonu](name)
+ - i am [raju](name)
+ - hi my name is [rajan](name)
+ - hey, [nasruddin dinka](name) here
+ - [nitesh kumar](name) is my name
+ - my name is [khushi ram](name)
+ - i am know as [manjesh](name)
+ - you can call me [rama nand](name)
+ - i am [ashok kumar](name)
+ - hi my name is [anil kumar](name)
+ - hey, [bhupender pal](name) here
+ - [umashankar khanduri](name) is my name
+ - my name is [vijay kukreja](name)
+ - i am know as [sarad chaubay](name)
+ - you can call me [aman](name)
+ - i am [rajna](name)
+ - hi my name is [dilsad](name)
+ - hey, [amit kumar](name) here
+ - [samim malik](name) is my name
+ - my name is [rajesh](name)
+ - i am know as [sukhveer singh](name)
+ - you can call me [chandra shekar](name)
+ - i am [vinod kumar](name)
+ - hi my name is [nesha](name)
+ - hey, [gurdarshan singh](name) here
+ - [raghbir](name) is my name
+ - my name is [hardev](name)
+ - i am know as [akash](name)
+ - you can call me [naresh garg](name)
+ - i am [arti](name)
+ - hi my name is [devender](name)
+ - hey, [mahendra](name) here
+ - [jitender tiwari](name) is my name
+ - my name is [mustafa](name)
+ - i am know as [pawan kumar](name)
+ - you can call me [anurag verma](name)
+ - i am [akhilesh](name)
+ - hi my name is [rajendra singh](name)
+ - hey, [mohit](name) here
+ - [raghubir singh](name) is my name
+ - my name is [jogender kumar](name)
+ - i am know as [tashnim](name)
+ - you can call me [saurabh](name)
+ - i am [premchand](name)
+ - hi my name is [pawna](name)
+ - hey, [mohit brig](name) here
+ - [amit](name) is my name
+ - my name is [basanta](name)
+ - i am know as [laxman](name)
+ - you can call me [maushid](name)
+ - i am [dheeraj montu](name)
+ - hi my name is [tushar vats](name)
+ - hey, [noor alam](name) here
+ - [parveen](name) is my name
+ - my name is [sandeep kumar](name)
+ - i am know as [vikrant](name)
+ - you can call me [nadim](name)
+ - i am [menpal](name)
+ - hi my name is [jawed ahmad](name)
+ - hey, [annu](name) here
+ - [birju](name) is my name
+ - my name is [liveri santam](name)
+ - i am know as [jaquir](name)
+ - you can call me [harish chand](name)
+ - i am [rahul](name)
+ - hi my name is [manoj kumar](name)
+ - hey, [sadab](name) here
+ - [surjeet](name) is my name
+ - my name is [padam chand](name)
+ - i am know as [vikash](name)
+ - you can call me [rajan](name)
+ - i am [harsh sharma](name)
+ - hi my name is [firoj](name)
+ - hey, [raj karan](name) here
+ - [roopsingh](name) is my name
+ - my name is [mohd salman](name)
+ - i am know as [lalit kumar](name)
+ - you can call me [jagdamba prashad](name)
+ - i am [surendra](name)
+ - hi my name is [ravi](name)
+ - hey, [sumer singh](name) here
+ - [sarvesh kumar pandey](name) is my name
+ - my name is [vijay kumar](name)
+ - i am know as [ram chander](name)
+ - you can call me [anil kumar](name)
+ - i am [kailash kumar](name)
+ - hi my name is [paratibha](name)
+ - hey, [mohd. hanif](name) here
+ - [kirpa sankar](name) is my name
+ - my name is [mohd ahmad guddu](name)
+ - i am know as [vijay kumar](name)
+ - you can call me [shankar](name)
+ - i am [abhishek](name)
+ - hi my name is [shah aftab](name)
+ - hey, [manish kumar](name) here
+ - [mahesh](name) is my name
+ - my name is [safe akhter](name)
+ - i am know as [ajit singh](name)
+ - you can call me [balram singh](name)
+ - i am [bhola dutt maithani](name)
+ - hi my name is [deepak](name)
+ - hey, [sandeep dubey](name) here
+ - [ram bahadur](name) is my name
+ - my name is [sonu](name)
+ - i am know as [bhramanand kumar](name)
+ - you can call me [amit singh](name)
+ - i am [deshraj](name)
+ - hi my name is [dharampal](name)
+ - hey, [govinda govind gautam](name) here
+ - [jaffar](name) is my name
+ - my name is [mukesh](name)
+ - i am know as [bharatlal meena](name)
+ - you can call me [rajaram radhey](name)
+ - i am [sonam kanhiya gurjar](name)
+ - hi my name is [anand neeraj](name)
+ - hey, [lal chand](name) here
+ - [abrar](name) is my name
+ - my name is [sandeep](name)
+ - i am know as [anurag singh alias banti](name)
+ - you can call me [rajesh](name)
+ - i am [rghuraj singh](name)
+ - hi my name is [rakesh](name)
+ - hey, [phooleshwar yadav babu lal](name) here
+ - [bhola](name) is my name
+ - my name is [sunil kumar](name)
+ - i am know as [vikas](name)
+ - you can call me [aman kumar](name)
+ - i am [mohd mustkeen](name)
+ - hi my name is [diwan singh](name)
+ - hey, [vikash](name) here
+ - [parvej alam](name) is my name
+ - my name is [jitender](name)
+ - i am know as [visvajeet mandal](name)
+ - you can call me [ajay sonu](name)
+ - i am [deepak](name)
+ - hi my name is [komal / kabila](name)
+ - hey, [shobharam](name) here
+ - [dharmender](name) is my name
+ - my name is [s p vinit gupta](name)
+ - i am know as [babbu](name)
+ - you can call me [mohan lal sharma](name)
+ - i am [imran](name)
+ - hi my name is [tarachand pappu](name)
+ - hey, [suresh pappi](name) here
+ - [omjone ibanuil](name) is my name
+ - my name is [narendra nagda](name)
+ - i am know as [veer](name)
+ - you can call me [rahul](name)
+ - i am [shahnawaz](name)
+ - hi my name is [bishun](name)
+ - hey, [jasiram](name) here
+ - [sumit](name) is my name
+ - my name is [vishva nath](name)
+ - i am know as [govind patel](name)
+ - you can call me [akshit](name)
+ - i am [sunil gupta](name)
+ - hi my name is [sabir hussain](name)
+ - hey, [sanjeev kaku](name) here
+ - [ashif](name) is my name
+ - my name is [moham madhav](name)
+ - i am know as [rahul joni](name)
+ - you can call me [brij raj](name)
+ - i am [munajir alam](name)
+ - hi my name is [jagdish mushar](name)
+ - hey, [charan singh minchu](name) here
+ - [mohan hemant kumar](name) is my name
+ - my name is [md. raju](name)
+ - i am know as [manoj sethi](name)
+ - you can call me [ranbir](name)
+ - i am [mukesh kumar](name)
+ - hi my name is [amar singh](name)
+ - hey, [salman](name) here
+ - [sanjay](name) is my name
+ - my name is [ramkishan gupta](name)
+ - i am know as [amit kumer](name)
+ - you can call me [mona](name)
+ - i am [aman puri](name)
+ - hi my name is [deepu](name)
+ - hey, [vishnu](name) here
+ - [mithun kumar](name) is my name
+ - my name is [akash](name)
+ - i am know as [saurav](name)
+ - you can call me [ghantoli](name)
+ - i am [boby](name)
+ - hi my name is [preet kumar](name)
+ - hey, [harshit](name) here
+ - [deepak sharma](name) is my name
+ - my name is [amit kumar](name)
+ - i am know as [faizudeen](name)
+ - you can call me [sumit](name)
+ - i am [shakib](name)
+ - hi my name is [aatif ali](name)
+ - hey, [kishan](name) here
+ - [satyanarayan](name) is my name
+ - my name is [gaurav](name)
+ - i am know as [sunil kumar](name)
+ - you can call me [galiya](name)
+ - i am [mohan singh tyagi](name)
+ - hi my name is [mohanram](name)
+ - hey, [saleem ansari](name) here
+ - [siddarth chetri](name) is my name
+ - my name is [arun kumar](name)
+ - i am know as [mohd. shakir](name)
+ - you can call me [kuldeep singh](name)
+ - i am [anuj tiwari](name)
+ - hi my name is [inder kumar](name)
+ - hey, [raj kishor](name) here
+ - [mo. safik](name) is my name
+ - my name is [guddu](name)
+ - i am know as [sanjay habdu](name)
+ - you can call me [imran](name)
+ - i am [lalit pandey](name)
+ - hi my name is [jai prakash](name)
+ - hey, [tara dutt suyal](name) here
+ - [manoj kumar](name) is my name
+ - my name is [santram santu](name)
+ - i am know as [inderjeet](name)
+ - you can call me [sitar singh](name)
+ - i am [virender kumar](name)
+ - hi my name is [babulal](name)
+ - hey, [vinit kumar banty](name) here
+ - [pawan kumar](name) is my name
+ - my name is [kailash chand](name)
+ - i am know as [jitendra kumar khant](name)
+ - you can call me [santosh](name)
+ - i am [jite](name)
+ - hi my name is [akash malik](name)
+  - hey, [nitish kumar](name) here
+ - [parvej](name) is my name
+ - my name is [laxman kumar](name)
+ - i am know as [mohd. samsuddin](name)
+ - you can call me [noorjama tukun](name)
+ - i am [rahul](name)
+ - hi my name is [anuj kumar](name)
+ - hey, [ramesh](name) here
+ - [sajid](name) is my name
+ - my name is [rajeev](name)
+ - i am know as [ashish](name)
+ - you can call me [amrjeet](name)
+ - i am [gulshan kumar](name)
+ - hi my name is [ashish](name)
+ - hey, [yeshpal](name) here
+ - [sameer khen](name) is my name
+ - my name is [rana gandhi](name)
+ - i am know as [arjun yadav](name)
+ - you can call me [mahender chaudhary](name)
+ - i am [jitender](name)
+ - hi my name is [yaqoob](name)
+ - hey, [surender nath saini](name) here
+ - [sumit chugh](name) is my name
+ - my name is [kishan](name)
+ - i am know as [amit](name)
+ - you can call me [mohit kumar](name)
+ - i am [suresh kumar](name)
+ - hi my name is [surajpal](name)
+ - hey, [dharmvir raju](name) here
+ - [ravi sharma](name) is my name
+ - my name is [anuj](name)
+ - i am know as [salman](name)
+ - you can call me [shelendra](name)
+ - i am [radhamohan](name)
+ - hi my name is [kishor singh](name)
+ - hey, [sanjeev kumar](name) here
+ - [ajeem](name) is my name
+ - my name is [sandeep golu](name)
+ - i am know as [yogesh rawat](name)
+ - you can call me [manoj](name)
+ - i am [arvind bhardwaj](name)
+ - hi my name is [prem ballabh](name)
+ - hey, [milap chand](name) here
+ - [raja babu](name) is my name
+ - my name is [neeven kakkar](name)
+ - i am know as [aakash](name)
+ - you can call me [tunni lal jaiswal](name)
+ - i am [chand](name)
+ - hi my name is [avnish](name)
+ - hey, [sunil](name) here
+ - [ramu](name) is my name
+ - my name is [surgayan kanwar](name)
+ - i am know as [amrish dixit](name)
+ - you can call me [lovly ladi](name)
+ - i am [hari chander](name)
+ - hi my name is [rahul singh](name)
+ - hey, [rahul bhaskar](name) here
+ - [chitprit singh](name) is my name
+ - my name is [harichand](name)
+ - i am know as [ramesh megwal](name)
+ - you can call me [paul nepal](name)
+ - i am [vijay pal](name)
+ - hi my name is [ashok kumar](name)
+ - hey, [ravi parkash papan](name) here
+ - [hardik yadav](name) is my name
+ - my name is [kanishakraj](name)
+ - i am know as [rocky](name)
+ - you can call me [vikash](name)
+ - i am [dimpy](name)
+ - hi my name is [kamaljeet](name)
+ - hey, [rashid ahmead](name) here
+ - [deepak](name) is my name
+ - my name is [sandeep](name)
+ - i am know as [mohd.javed](name)
+ - you can call me [vakeel](name)
+ - i am [amit](name)
+ - hi my name is [jogender singh](name)
+ - hey, [naveen kumar](name) here
+ - [salman](name) is my name
+ - my name is [annu oliva](name)
+ - i am know as [jameer turi](name)
+ - you can call me [rajesh kumat](name)
+ - i am [deepak bhatt](name)
+ - hi my name is [balwant](name)
+ - hey, [chetram gurjar](name) here
+ - [jitender](name) is my name
+ - my name is [sonu](name)
+ - i am know as [jitendra kumar](name)
+ - you can call me [anil urf rakesh](name)
+ - i am [amreek singh](name)
+ - hi my name is [shubham giri](name)
+ - hey, [aamir](name) here
+ - [banwarilal](name) is my name
+ - my name is [santram](name)
+ - i am know as [vaibav gupta](name)
+ - you can call me [parvesh kumar](name)
+ - i am [kuldeep kalan](name)
+ - hi my name is [dhani ram](name)
+ - hey, [arvind arun](name) here
+ - [bannu](name) is my name
+ - my name is [harish batra](name)
+ - i am know as [abdul kadir](name)
+ - you can call me [mukund kumar](name)
+ - i am [anil kumar](name)
+ - hi my name is [dinesh](name)
+ - hey, [sh. amar singh](name) here
+ - [rohit agarwal](name) is my name
+ - my name is [kaptan singh](name)
+ - i am know as [मुकेश](name)
+ - you can call me [jaipal](name)
+ - i am [ziyabul](name)
+ - hi my name is [vikky](name)
+ - hey, [salim malik](name) here
+ - [charan singh](name) is my name
+ - my name is [baljeet singh](name)
+ - i am know as [komal](name)
+ - you can call me [vishal](name)
+ - i am [akash](name)
+ - hi my name is [mohd. arbaz](name)
+ - hey, [sandeep kumar sharma](name) here
+ - [harpreet singh](name) is my name
+ - my name is [kumari sona](name)
+ - i am know as [lal singh](name)
+ - you can call me [himanshu](name)
+ - i am [adan](name)
+ - hi my name is [prmod paswan](name)
+ - hey, [surender](name) here
+ - [lalan singh](name) is my name
+ - my name is [abhishek kumar](name)
+ - i am know as [ajay](name)
+ - you can call me [bijender](name)
+ - i am [gopiram atal](name)
+ - hi my name is [amot](name)
+ - hey, [wasim](name) here
+ - [chandan](name) is my name
+ - my name is [ashok](name)
+ - i am know as [harikishan](name)
+ - you can call me [asha](name)
+ - i am [laxman prasad](name)
+ - hi my name is [rima](name)
+ - hey, [tapish chorasiya](name) here
+ - [mohammad gazi khan](name) is my name
+ - my name is [shambhu](name)
+ - i am know as [deepak kumar](name)
+ - you can call me [amit](name)
+ - i am [gajender kumar](name)
+ - hi my name is [kuldeep singh](name)
+ - hey, [anil](name) here
+ - [jai prakash singh](name) is my name
+ - my name is [ahsan](name)
+ - i am know as [mr. mohammad sahed](name)
+ - you can call me [satyam](name)
+ - i am [prem pal](name)
+ - hi my name is [sunil](name)
+ - hey, [devender kumar ashu](name) here
+ - [dharmender](name) is my name
+ - my name is [inderjeet singh](name)
+ - i am know as [kishan agrawal](name)
+ - you can call me [suraj](name)
+ - i am [rajiv chawala](name)
+ - hi my name is [arun](name)
+ - hey, [sonu](name) here
+ - [amit prasar](name) is my name
+ - my name is [sameem](name)
+ - i am know as [meeta lal gurjar](name)
+ - you can call me [ajit singh](name)
+ - i am [bablu](name)
+ - hi my name is [mohan](name)
+ - hey, [jai singh](name) here
+ - [sarjeet](name) is my name
+ - my name is [bhupender](name)
+ - i am know as [sohan lal](name)
+ - you can call me [krishan gopal](name)
+ - i am [yashin sukaa](name)
+ - hi my name is [saroj devi](name)
+ - hey, [deewan](name) here
+ - [ghanshyam balmiki](name) is my name
+ - my name is [sanju](name)
+ - i am know as [surender](name)
+ - you can call me [vivek](name)
+ - i am [shanker](name)
+ - hi my name is [praveen kumar](name)
+ - hey, [ram dayal](name) here
+ - [jaswant singh](name) is my name
+ - my name is [jisu](name)
+ - i am know as [kamal kishor soni](name)
+ - you can call me [aftab](name)
+ - i am [gagan kumar](name)
+ - hi my name is [vinod](name)
+ - hey, [harsh aman](name) here
+ - [asruddin](name) is my name
+ - my name is [shiv kumar](name)
+ - i am know as [kishore kumar](name)
+ - you can call me [vishal](name)
+ - i am [mohd sohaib](name)
+ - hi my name is [mohan lal](name)
+ - hey, [balwant singh](name) here
+ - [ali sher](name) is my name
+ - my name is [vikash](name)
+ - i am know as [dinesh kumar](name)
+ - you can call me [rakesh sharma](name)
+ - i am [rajender kumar](name)
+ - hi my name is [prince shonak](name)
+ - hey, [bintu](name) here
+ - [suraj singh](name) is my name
+ - my name is [rajesh kumar](name)
+ - i am know as [sammiuddin](name)
+ - you can call me [ramji lal](name)
+ - i am [babul al](name)
+ - hi my name is [mukesh](name)
+ - hey, [nand kishore](name) here
+ - [vishal verma](name) is my name
+ - my name is [dakch](name)
+ - i am know as [pawan](name)
+ - you can call me [sunil kumar](name)
+ - i am [satya sunder pauigrali](name)
+ - hi my name is [jagmal](name)
+ - hey, [malchand](name) here
+ - [rabpreet singh](name) is my name
+ - my name is [bhupender singh](name)
+ - i am know as [ramprasad](name)
+ - you can call me [sheikh matin munna](name)
+ - i am [lakshy jain](name)
+ - hi my name is [akram hussain](name)
+ - hey, [ram dulare](name) here
+ - [santosh pandey](name) is my name
+ - my name is [jagdish juneja](name)
+ - i am know as [rahul bunty](name)
+ - you can call me [neeraj](name)
+ - i am [ranjit singh](name)
+ - hi my name is [vijay kumar](name)
+ - hey, [divakar sharma](name) here
+ - [anil](name) is my name
+ - my name is [munesh bhati](name)
+ - i am know as [mukesh](name)
+ - you can call me [narender](name)
+ - i am [raj golu](name)
+ - hi my name is [aashish](name)
+ - hey, [deepak kumar](name) here
+ - [naim](name) is my name
+ - my name is [kumari preeti](name)
+ - i am know as [krishana kumar](name)
+ - you can call me [virender](name)
+ - i am [jaiveer mansa ram](name)
+
+ 
+ 
+## regex:email
+- ^\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}$
+
+## regex:number
+- [0-9]
